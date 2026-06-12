@@ -1,0 +1,323 @@
+[
+  {
+    "surface": "CH4",
+    "reading": "methane",
+    "domain": "chemistry"
+  },
+  {
+    "surface": "CO2",
+    "reading": "carbon dioxide",
+    "domain": "chemistry"
+  },
+  {
+    "surface": "étale空間",
+    "reading": "étale space",
+    "domain": "math"
+  },
+  {
+    "surface": "fiber層",
+    "reading": "fiber sheaf",
+    "domain": "math"
+  },
+  {
+    "surface": "Fiber層",
+    "reading": "fiber sheaf",
+    "domain": "math"
+  },
+  {
+    "surface": "Grothendieck位相",
+    "reading": "Grothendieck topology",
+    "domain": "math"
+  },
+  {
+    "surface": "Grothendieck宇宙",
+    "reading": "Grothendieck universe",
+    "domain": "math",
+    "notes": "英語発話前提"
+  },
+  {
+    "surface": "Grothendieck圏",
+    "reading": "Grothendieck category",
+    "domain": "math"
+  },
+  {
+    "surface": "H2O",
+    "reading": "water",
+    "domain": "chemistry"
+  },
+  {
+    "surface": "Hamiltonian",
+    "reading": "Hamiltonian",
+    "domain": "physics"
+  },
+  {
+    "surface": "HCl",
+    "reading": "hydrogen chloride",
+    "domain": "chemistry"
+  },
+  {
+    "surface": "Hilbert空間",
+    "reading": "Hilbert space",
+    "domain": "physics"
+  },
+  {
+    "surface": "Hom関手",
+    "reading": "Hom functor",
+    "domain": "math"
+  },
+  {
+    "surface": "Hom集合",
+    "reading": "Hom set",
+    "domain": "math"
+  },
+  {
+    "surface": "NaCl",
+    "reading": "sodium chloride",
+    "domain": "chemistry"
+  },
+  {
+    "surface": "NH3",
+    "reading": "ammonia",
+    "domain": "chemistry"
+  },
+  {
+    "surface": "エタール",
+    "reading": "étale",
+    "domain": "math"
+  },
+  {
+    "surface": "エタノール",
+    "reading": "ethanol",
+    "domain": "chemistry"
+  },
+  {
+    "surface": "ゲージ場",
+    "reading": "gauge field",
+    "domain": "physics"
+  },
+  {
+    "surface": "コホモロジー",
+    "reading": "cohomology",
+    "domain": "math"
+  },
+  {
+    "surface": "スピノル",
+    "reading": "spinor",
+    "domain": "physics"
+  },
+  {
+    "surface": "テンソル",
+    "reading": "tensor",
+    "domain": "physics"
+  },
+  {
+    "surface": "テンソル積",
+    "reading": "tensor product",
+    "domain": "math"
+  },
+  {
+    "surface": "トポス",
+    "reading": "topos",
+    "domain": "math"
+  },
+  {
+    "surface": "ベンゼン",
+    "reading": "benzene",
+    "domain": "chemistry"
+  },
+  {
+    "surface": "ホモロジー",
+    "reading": "homology",
+    "domain": "math"
+  },
+  {
+    "surface": "モノイド圏",
+    "reading": "monoidal category",
+    "domain": "math"
+  },
+  {
+    "surface": "ラグランジアン",
+    "reading": "Lagrangian",
+    "domain": "physics"
+  },
+  {
+    "surface": "位相空間",
+    "reading": "topological space",
+    "domain": "math"
+  },
+  {
+    "surface": "塩酸",
+    "reading": "hydrochloric acid",
+    "domain": "chemistry"
+  },
+  {
+    "surface": "可換",
+    "reading": "commutative",
+    "domain": "math"
+  },
+  {
+    "surface": "可換図式",
+    "reading": "commutative diagram",
+    "domain": "math"
+  },
+  {
+    "surface": "芽",
+    "reading": "germ",
+    "domain": "math"
+  },
+  {
+    "surface": "開集合",
+    "reading": "open set",
+    "domain": "math"
+  },
+  {
+    "surface": "開被覆",
+    "reading": "open cover",
+    "domain": "math"
+  },
+  {
+    "surface": "関手",
+    "reading": "functor",
+    "domain": "math"
+  },
+  {
+    "surface": "基本群",
+    "reading": "fundamental group",
+    "domain": "math"
+  },
+  {
+    "surface": "極限",
+    "reading": "limit",
+    "domain": "math"
+  },
+  {
+    "surface": "経路積分",
+    "reading": "path integral",
+    "domain": "physics"
+  },
+  {
+    "surface": "茎",
+    "reading": "stalk",
+    "domain": "math"
+  },
+  {
+    "surface": "圏",
+    "reading": "category",
+    "domain": "math"
+  },
+  {
+    "surface": "固有状態",
+    "reading": "eigenstate",
+    "domain": "physics"
+  },
+  {
+    "surface": "固有値",
+    "reading": "eigenvalue",
+    "domain": "physics"
+  },
+  {
+    "surface": "作用",
+    "reading": "action",
+    "domain": "physics"
+  },
+  {
+    "surface": "自然変換",
+    "reading": "natural transformation",
+    "domain": "math"
+  },
+  {
+    "surface": "射",
+    "reading": "morphism",
+    "domain": "math"
+  },
+  {
+    "surface": "場の量子論",
+    "reading": "quantum field theory",
+    "domain": "physics"
+  },
+  {
+    "surface": "酢酸",
+    "reading": "acetic acid",
+    "domain": "chemistry"
+  },
+  {
+    "surface": "水酸化ナトリウム",
+    "reading": "sodium hydroxide",
+    "domain": "chemistry"
+  },
+  {
+    "surface": "随伴",
+    "reading": "adjunction",
+    "domain": "math"
+  },
+  {
+    "surface": "随伴関手",
+    "reading": "adjoint functor",
+    "domain": "math"
+  },
+  {
+    "surface": "前層",
+    "reading": "presheaf",
+    "domain": "math"
+  },
+  {
+    "surface": "層",
+    "reading": "sheaf",
+    "domain": "math"
+  },
+  {
+    "surface": "対象",
+    "reading": "object",
+    "domain": "math"
+  },
+  {
+    "surface": "直積",
+    "reading": "product",
+    "domain": "math"
+  },
+  {
+    "surface": "標準模型",
+    "reading": "Standard Model",
+    "domain": "physics"
+  },
+  {
+    "surface": "閉集合",
+    "reading": "closed set",
+    "domain": "math"
+  },
+  {
+    "surface": "豊穣圏",
+    "reading": "enriched category",
+    "domain": "math"
+  },
+  {
+    "surface": "余極限",
+    "reading": "colimit",
+    "domain": "math"
+  },
+  {
+    "surface": "余積",
+    "reading": "coproduct",
+    "domain": "math"
+  },
+  {
+    "surface": "硫酸",
+    "reading": "sulfuric acid",
+    "domain": "chemistry"
+  },
+  {
+    "surface": "冪",
+    "reading": "power",
+    "domain": "math"
+  },
+  {
+    "surface": "冪対象",
+    "reading": "power object",
+    "domain": "math"
+  },
+  {
+    "surface": "楔積",
+    "reading": "wedge product",
+    "domain": "math"
+  }
+]

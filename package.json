@@ -1,0 +1,33 @@
+{
+  "name": "tts-reading-lexicon",
+  "version": "0.1.0",
+  "description": "Composable reading dictionaries and MathJax/LaTeX normalizer for technical TTS.",
+  "type": "module",
+  "bin": {
+    "tts-reading-lexicon": "./bin/tts-reading-lexicon.js"
+  },
+  "scripts": {
+    "build": "node scripts/build-merged.js",
+    "test": "node --test"
+  },
+  "files": [
+    "bin",
+    "data",
+    "dist",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "tts",
+    "reading",
+    "latex",
+    "mathjax",
+    "g2p",
+    "pronunciation"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  { "surface": "Hilbert空間", "reading": "Hilbert space", "domain": "physics" },
+  { "surface": "Hamiltonian", "reading": "Hamiltonian", "domain": "physics" },
+  { "surface": "ラグランジアン", "reading": "Lagrangian", "domain": "physics" },
+  { "surface": "作用", "reading": "action", "domain": "physics" },
+  { "surface": "経路積分", "reading": "path integral", "domain": "physics" },
+  { "surface": "場の量子論", "reading": "quantum field theory", "domain": "physics" },
+  { "surface": "標準模型", "reading": "Standard Model", "domain": "physics" },
+  { "surface": "ゲージ場", "reading": "gauge field", "domain": "physics" },
+  { "surface": "スピノル", "reading": "spinor", "domain": "physics" },
+  { "surface": "テンソル", "reading": "tensor", "domain": "physics" },
+  { "surface": "固有値", "reading": "eigenvalue", "domain": "physics" },
+  { "surface": "固有状態", "reading": "eigenstate", "domain": "physics" }
+]

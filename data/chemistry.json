@@ -1,0 +1,14 @@
+[
+  { "surface": "H2O", "reading": "water", "domain": "chemistry" },
+  { "surface": "CO2", "reading": "carbon dioxide", "domain": "chemistry" },
+  { "surface": "NaCl", "reading": "sodium chloride", "domain": "chemistry" },
+  { "surface": "CH4", "reading": "methane", "domain": "chemistry" },
+  { "surface": "NH3", "reading": "ammonia", "domain": "chemistry" },
+  { "surface": "HCl", "reading": "hydrogen chloride", "domain": "chemistry" },
+  { "surface": "硫酸", "reading": "sulfuric acid", "domain": "chemistry" },
+  { "surface": "塩酸", "reading": "hydrochloric acid", "domain": "chemistry" },
+  { "surface": "水酸化ナトリウム", "reading": "sodium hydroxide", "domain": "chemistry" },
+  { "surface": "酢酸", "reading": "acetic acid", "domain": "chemistry" },
+  { "surface": "ベンゼン", "reading": "benzene", "domain": "chemistry" },
+  { "surface": "エタノール", "reading": "ethanol", "domain": "chemistry" }
+]
